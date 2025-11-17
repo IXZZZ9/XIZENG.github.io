@@ -24,8 +24,9 @@ Boston, MA 02215
 
 ## Academic Profiles
 
-- [Google Scholar](https://scholar.google.com) *(Profile coming soon)*
-- [GitHub](https://github.com/XIZENG)
+- [Google Scholar](https://scholar.google.com/citations?user=9njDsJYAAAAJ&hl=en)
+- [GitHub](https://github.com/IXZZZ9)
+- [ORCID](https://orcid.org/0009-0007-8352-9610)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Zeng%2C+X)
 
 ## Current Affiliations
