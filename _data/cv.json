@@ -3,7 +3,7 @@
     "name": "Xi Zeng",
     "email": "zeng0115@bu.edu",
     "phone": "",
-    "website": "https://IXZZZ9.github.io",
+    "website": "https://xizeng.github.io",
     "summary": "MS Computer Science student at Boston University specializing in continual learning and catastrophic forgetting in AI systems. Research Assistant in Professor Reza Rawassizadeh's group.",
     "location": {
       "address": "",
@@ -16,17 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=9njDsJYAAAAJ&hl=en"
+        "url": "https://scholar.google.com"
       },
       {
         "network": "GitHub",
-        "username": "IXZZZ9",
-        "url": "https://github.com/IXZZZ9"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/0009-0007-8352-9610"
+        "username": "XIZENG",
+        "url": "https://github.com/XIZENG"
       }
     ]
   },
