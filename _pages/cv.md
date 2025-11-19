@@ -11,75 +11,74 @@ redirect_from:
 
 [Download Full CV (PDF)]({{ base_path }}/files/Xi_Zeng_CV.pdf)
 
+**Xi Zeng**
+Email: [zeng0115@bu.edu](mailto:zeng0115@bu.edu)
+Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=9njDsJYAAAAJ&hl=en)
+
 Education
 ======
-* M.S. in Computer Science, Boston University, 2025 (Expected)
-  * Research Focus: Continual Learning and Catastrophic Forgetting
-  * Advisor: Professor Reza Rawassizadeh
-* B.A. in Computer Science, Rutgers University, 2024
-  * Dean's List (Kent State University - Transfer Credits)
+* **Master of Computer Science** (2024 - 2025)
+  * Boston University, Boston, MA
 
-Research Experience
-======
-* **January 2025 - Present: Research Assistant**
-  * Boston University, Professor Reza Rawassizadeh's Group
-  * Lead implementation and experimental design for gradient-based training optimization
-  * Present weekly reviews of cutting-edge ML/AI publications
-  * Rapidly prototype novel concepts in continual learning
-  * Manage code refactoring and public release on GitHub/PyPI/Hugging Face
-
-* **2024 - Present: Research Assistant**
-  * Center for Intelligent Medical Electronics, Fudan University
-  * Apply statistical methods for hypothesis testing in medical AI
-  * Utilize Deep Forest algorithm's interpretability for electrode mapping
-  * Demonstrate significant performance gains with reduced hardware requirements
+* **Bachelor of Art, Computer Science** (2021 - 2024)
+  * Rutgers University, Piscataway, NJ
 
 Teaching Experience
 ======
-* **Spring 2025: Teaching Assistant**
-  * MET CS 767: Advanced Database Management Systems
-  * Boston University
-  * Evaluate and grade coursework for 45+ graduate students
-  * Deliver academic support through office hours and discussion sections
-  * Clarify advanced concepts in distributed systems and database optimization
+* **Teaching Assistant** (2025 - Present)
+  * MET CS 767 Advanced ML and Neural Network, Boston University
+  * Evaluate and grade coursework, deliver academic support, and clarify advanced concepts for graduate students
 
-Skills
+Research Experience
 ======
-* **Programming Languages**
-  * Expert: Python
-  * Proficient: R, MATLAB
-  * Intermediate: Java, SQL, HTML/CSS
-* **Machine Learning Frameworks**
-  * PyTorch, TensorFlow, scikit-learn
-  * Hugging Face Transformers, Weights & Biases
-* **Tools and Technologies**
-  * Git, Docker, Linux/UNIX, SLURM, CUDA
-  * Jupyter Notebook, LaTeX, Overleaf
+* **Research Assistant, Professor Reza Rawassizadeh's Group** (2025 - Present)
+  * Boston University
+  * Presented weekly reviews of recent publications from leading ML/AI conferences and journals, stimulating group discussion and idea sharing
+  * Rapidly implemented prototypes and experimented with novel concepts, reporting findings to guide research direction
+  * Led the implementation and experimental design for promising projects (GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping, submitted to MLsys)
+  * Managed code refactoring, optimization and public release on platforms
+
+* **Research Assistant** (2024 - Present)
+  * The Center for Intelligent Medical Electronics, Fudan University
+  * Applied statistical methods to determine if experimental data significantly differed from proposed hypotheses in intelligent medical electronics research
+  * Utilized Deep Forest algorithm's MDI interpretability to map importance scores and select the most crucial electrodes
+  * Compared performance of Deep Forest (as baseline), models using all features, and models trained only on selected important electrodes
+  * Demonstrated via statistical analysis that our interpretability approach achieves significant performance gains and enables accuracy with fewer electrodes at lower cost
+
+Grants and Awards
+======
+* Dean's List, Kent State University
+
+Technical Competencies
+======
+* **Computer Skills**
+  * Python, R, MATLAB, Java, Linux/UNIX, Jupyter Notebook, Overleaf, Git, scikit-learn, PyTorch, TensorFlow, Pandas, Matplotlib, SQL, HTML, CSS, Android Studio
+
+* **Data Analysis Skills**
+  * Statistical data analysis, hypothesis testing, data visualization, machine learning algorithm implementation, feature selection, reproducible research practices, database management
+
+Course Work
+======
+* **Applied Statistics and Machine Learning**
+  * Statistical Machine Learning, Web Mining, Data Mining, Intro to Artificial Intelligence, Advance Machine Learning, Generative AI
+
+* **Mathematics**
+  * Linear Algebra, Linear Optimization, Discrete Math, Probability
+
+* **Data Management**
+  * Information and Data Management, Advance Database Management
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Q. Wen†, **X. Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawassizadeh, "GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping," arXiv preprint arXiv:2509.01842, 2025. (†: Co-first author, Submitted to MLsys 2026)
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+2. X. Tan, Y. Pan, **X. Zeng**, R. Yang, S.-P. Zhao, and W. Zhao, "Analysis of Dyslipidemia Management Based on the DYSIS-China Study," Manuscript in preparation, 2025.
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+3. X. Tan, **X. Zeng**, S. Fan, H. Zheng, X. Du, X. Ye, and C. Dai, "Robust and Interpretable Silent Speech Recognition from High-Density sEMG Using Deep Forest," Manuscript in preparation, 2025.
 
-Service and Professional Membership
+Academic and Professional Membership
 ======
-* IEEE Member (2024-Present)
-* Research group paper presentations and discussions
-* Open source contributions and repository maintenance
-* Peer review for workshop papers
+* IEEE Member
 
 Languages
 ======
