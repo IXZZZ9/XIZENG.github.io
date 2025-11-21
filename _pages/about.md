@@ -33,7 +33,7 @@ GradES: Significantly Faster Training in Transformers with Gradient-Based Early 
 Q. Wen†, **Xi Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawassizadeh
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-fedcba?style=flat&logo=github)](https://github.com/IXZZZ9/GradES)![](https://img.shields.io/github/stars/IXZZZ9/GradES?style=social) [![arXiv](https://img.shields.io/badge/arXiv-2509.01842-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2509.01842)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-fedcba?style=flat&logo=github)](https://github.com/IXZZZ9/GradES)![](https://img.shields.io/github/stars/IXZZZ9/GradES?style=social) [![arXiv](https://img.shields.io/badge/arXiv-2509.01842-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/abs/2509.01842)[![PyPI version](https://badge.fury.io/py/grades.svg)](https://badge.fury.io/py/grades)
 </div>
 </div>
 
