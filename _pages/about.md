@@ -12,13 +12,13 @@ redirect_from:
 
 # 👤 About Me
 
-I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://www.bu.edu/cs/profiles/reza-rawassizadeh/) group. My research focuses on efficient training methods for transformers and interpretable medical AI systems, emphasizing practical approaches to improve training efficiency and develop reliable AI applications in healthcare.
+I am a Master's student in Computer Science at [Boston University](https://www.bu.edu/), working as a Research Assistant in [Professor Reza Rawassizadeh's](https://sites.google.com/view/rezar) group. My research focuses on efficient training methods for transformers and interpretable medical AI systems, emphasizing practical approaches to improve training efficiency and develop reliable AI applications in healthcare.
 
 Before joining Boston University, I completed my undergraduate studies with a focus on computer science and machine learning applications.
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 GradES paper submitted to MLsys 2026!
+- *2025.10*: &nbsp;🎉🎉 GradES paper submitted to MLsys 2026!
 - *2025.03*: &nbsp;📝 Manuscript on interpretable silent speech recognition in preparation
 - *2025.02*: &nbsp;📝 Manuscript on dyslipidemia management analysis in preparation
 
@@ -38,7 +38,7 @@ Q. Wen†, **Xi Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawas
 
 - Novel gradient-based early stopping criterion for transformer training
 - 30-50% reduction in training time with maintained or improved performance
-- Open-source implementation on GitHub, PyPI, and Hugging Face
+- Open-source implementation on GitHub and PyPI
 
 </div>
 </div>
@@ -77,8 +77,8 @@ X. Tan, Y. Pan, **Xi Zeng**, R. Yang, S.-P. Zhao, and W. Zhao
 
 
 # 📖 Education
-- *2024 - 2025*, Master of Computer Science, Boston University 🇺🇸, Boston, MA
-- *2021 - 2024*, Bachelor of Art, Computer Science, Rutgers University 🎓, Piscataway, NJ
+- *2024 - 2025*, Master of Computer Science, Boston University, Boston, MA
+- *2021 - 2024*, Bachelor of Art, Computer Science, Rutgers University, Piscataway, NJ
 
 
 # 🔬 Research Interests
