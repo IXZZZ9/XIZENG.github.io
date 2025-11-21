@@ -20,8 +20,11 @@ main:
   - title: "Education"
     url: /#-education
 
-  - title: "Research"
-    url: /#-research-interests
+  - title: "Teaching Experience"
+    url: /#-teaching-experience
+
+  - title: "Research Experience"
+    url: /#-research-experience
 
   - title: "CV"
     url: /cv/
