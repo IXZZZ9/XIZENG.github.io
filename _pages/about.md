@@ -42,7 +42,6 @@ Q. Wen†, **Xi Zeng†**, Z. Zhou, S. Liu, M. Hosseinzadeh, N. Su, and R. Rawas
 - Open-source implementation on GitHub and PyPI
 
 </div>
-</div>
 
 
 
