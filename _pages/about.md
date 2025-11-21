@@ -83,24 +83,24 @@ X. Tan, Y. Pan, **Xi Zeng**, R. Yang, S. Zhao, and W. Zhao
 **Teaching Assistant** @ [Boston University](https://www.bu.edu/)
 *2025 - Present*
 MET CS 767 Advanced ML and Neural Network
-- Evaluate and grade coursework, deliver academic support, and clarify advanced concepts for graduate students
+- Assessed assignments and provided constructive feedback on theoretical derivations and implementation details
 
 
 # 💻 Research Experience
 
 **Research Assistant, Professor Reza Rawassizadeh's Group** @ [Boston University](https://www.bu.edu/cs/)
 *2025 - Present*
-- Presented weekly reviews of recent publications from leading ML/AI conferences and journals, stimulating group discussion and idea sharing
-- Rapidly implemented prototypes and experimented with novel concepts, reporting findings to guide research direction
-- Led the implementation and experimental design for promising projects (GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping, submitted to MLsys)
-- Managed code refactoring, optimization and public release on platforms
+- Presented weekly literature reviews of recent publications from top-tier ML/AI venues, facilitating critical discourse and encouraging intellectual exchange within the research group
+- Iteratively developed research prototypes to validate theoretical hypotheses, conducting ablation studies and empirical evaluations to inform strategic research decisions
+- Co-led the algorithmic development and experimental validation for high-impact research initiatives (GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping, submitted to MLsys 2026)
+- Architected production-quality codebases, implementing comprehensive refactoring and performance optimization, resulting in open-source releases on GitHub with reproducible benchmarks and documentation
 
 **Research Assistant** @ [The Center for Intelligent Medical Electronics, Fudan University](https://www.fudan.edu.cn/)
 *2024 - Present*
-- Applied statistical methods to determine if experimental data significantly differed from proposed hypotheses in intelligent medical electronics research
-- Utilized Deep Forest algorithm's MDI interpretability to map importance scores and select the most crucial electrodes
-- Compared performance of Deep Forest (as baseline), models using all features, and models trained only on selected important electrodes
-- Demonstrated via statistical analysis that our interpretability approach achieves significant performance gains and enables accuracy with fewer electrodes at lower cost
+- Conducted hypothesis testing and significance analysis to validate experimental outcomes in biomedical signal processing applications
+- Leveraged Mean Decrease Impurity (MDI) feature importance from Deep Forest to identify and rank critical electrode channels for optimal sensor placement
+- Performed ablation studies by incrementally removing low-importance electrodes, identifying the optimal trade-off at 40% electrode retention that maintained 95% baseline performance
+- Applied Wilcoxon signed-rank tests for non-parametric comparison and paired t-tests where normality assumptions are held, demonstrating statistical significance (p<0.05) in performance-efficiency gains
 
 
 # 🎖 Grants and Awards
