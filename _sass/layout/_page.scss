@@ -399,3 +399,68 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Paper box for publications
+   ========================================================================== */
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--global-border-color);
+  padding: 2em 0 2em 0;
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+  }
+}
+
+.paper-box-image {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+
+  @include breakpoint($medium) {
+    min-width: 200px;
+    max-width: 40%;
+    padding-right: 1em;
+  }
+
+  img {
+    max-width: 400px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+    object-fit: cover;
+  }
+}
+
+.paper-box-text {
+  flex: 1;
+  padding-left: 1em;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25em 0.4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  background-color: #007bff;
+  color: white;
+  margin-bottom: 0.5em;
+}
+
+/* Anchor styling */
+.anchor {
+  display: block;
+  position: relative;
+  top: -80px;
+  visibility: hidden;
+}
